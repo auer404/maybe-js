@@ -1,4 +1,4 @@
-# maybe-js
+# maybe.js
 A small JavaScript library for maybe doing things
 
 /*********** User Manual ***********/
